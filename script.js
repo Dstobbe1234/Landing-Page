@@ -6,3 +6,4 @@ let focus = promt("What is your main focus for today?");
 
 // Output Data into the page
 document.getElementById("nameSpan").innerHTML = name;
+document.getElementById("focus!").innerHTML = focus;
